@@ -1,5 +1,5 @@
 
 # Movie Recommdation System
 
-A brief description of what this project does and who it's for
+A brief description of what this project doe s and who it's for
 
